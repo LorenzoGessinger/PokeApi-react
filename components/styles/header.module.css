@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Pokemon Solid', sans-serif;
+    margin: auto;
+    font-size: 3em;
+    text-align: center;
+    width: 50%;
+    letter-spacing: 10px;
+    color: rgb(255, 203, 5);
+    text-shadow: 4px 4px 6px rgba(0, 58, 112);
+}
+
+/* Responsive Part */
+
+@media (max-width: 667px) {
+    h1 {
+        font-size: 1.5em;
+    }
+}
+
+
